@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.tairovlaw {
+  /* TAIROVLAW */
+
+  position: absolute;
+  width: 182px;
+  height: 35px;
+  left: 200px;
+  top: 20px;
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 0.04em;
+  color: #303030;
+  text-decoration: none;
+}
+
+.tairovlawlaw {
+  font-style: italic;
+  font-weight: 400;
+
+  color: #008c34;
+}
+.navposition {
+  position: fixed;
+  height: 65px;
+  width: 1583px;
+  background-color: white;
+  z-index: 10;
+}
+.navfont {
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  color: #303030;
+}
+.services {
+  position: absolute;
+  width: 50px;
+  height: 18px;
+  left: 453px;
+  top: 30px;
+  text-decoration: none;
+}
+
+.aboutme {
+  position: absolute;
+  width: 64px;
+  height: 18px;
+  left: 528px;
+  top: 30px;
+  text-decoration: none;
+}
+.journal {
+  position: absolute;
+  width: 59px;
+  height: 18px;
+  left: 617px;
+  top: 30px;
+  text-decoration: none;
+}
+
+.contacts {
+  position: absolute;
+  width: 70px;
+  height: 18px;
+  left: 701px;
+  top: 30px;
+  text-decoration: none;
+}
+
+.h1mp {
+  position: absolute;
+  width: 1130px;
+  height: 196px;
+  left: 194px;
+  top: 100px;
+
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 1.15;
+  /* or 99px */
+
+  letter-spacing: -0.02em;
+
+  color: #303030;
+}
+.h1mpgreen {
+  color: #008c34;
+}
+.fortextunderh1mp {
+  position: absolute;
+  top: 372px;
+  font-family: "Arial", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+  /* or 21px */
+  color: #303030;
+}
+.p1 {
+  position: absolute;
+  width: 335px;
+  height: 90px;
+  left: 200px;
+}
+.p2 {
+  position: absolute;
+  width: 370px;
+  height: 90px;
+  left: 620px;
+}
+.video {
+  position: absolute;
+  height: 789px;
+  width: 1583px;
+  left: 0px;
+  top: 551px;
+  object-fit: cover;
+  background-size: cover;
+}
