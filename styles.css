@@ -2,6 +2,11 @@
   margin: 0;
   padding: 0;
 }
+
+a{
+  text-decoration: none;
+}
+
 .tairovlaw {
   /* TAIROVLAW */
 
@@ -18,7 +23,6 @@
   line-height: 35px;
   letter-spacing: 0.04em;
   color: #303030;
-  text-decoration: none;
 }
 
 .tairovlawlaw {
@@ -30,7 +34,7 @@
 .navposition {
   position: fixed;
   height: 65px;
-  width: 1583px;
+  width: 100%;
   background-color: white;
   z-index: 10;
 }
@@ -48,7 +52,6 @@
   height: 18px;
   left: 453px;
   top: 30px;
-  text-decoration: none;
 }
 
 .aboutme {
@@ -65,7 +68,6 @@
   height: 18px;
   left: 617px;
   top: 30px;
-  text-decoration: none;
 }
 
 .contacts {
@@ -74,7 +76,32 @@
   height: 18px;
   left: 701px;
   top: 30px;
-  text-decoration: none;
+}
+
+.number {
+  position: absolute;
+  left: 1078px;
+  top: 30px;
+  background-color: white;
+  border: 0;
+}
+
+.get-in-touch {
+  position: absolute;
+  left: 1239px;
+  top: 17px;
+  width: 160px;
+  height: 45px;
+  text-align: center;
+  
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 600px;
+  background-color: white;
+}
+
+.git-link {
+  display: block;
 }
 
 .h1mp {
@@ -123,8 +150,8 @@
 }
 .video {
   position: absolute;
-  height: 789px;
-  width: 1583px;
+  height: 100%;
+  width: 100%;
   left: 0px;
   top: 551px;
   object-fit: cover;
