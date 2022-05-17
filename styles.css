@@ -3,7 +3,7 @@
   padding: 0;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -60,7 +60,6 @@ a{
   height: 18px;
   left: 528px;
   top: 30px;
-  text-decoration: none;
 }
 .journal {
   position: absolute;
